@@ -4,3 +4,5 @@ This is the implementation of an edge-feature which will open-up a device to clo
 
 In order to work this container must run in priviledged mode.
 
+# Getting started
+- Building containers for edge: https://docs.bosch-iot-suite.com/edge/index.html#109692.htm
